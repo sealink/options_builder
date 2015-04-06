@@ -1,0 +1,7 @@
+/*
+For including stylesheets in your specs, Jasminerice uses spec/javascripts/spec.css.
+Use Sprockets directives to include the right css files:
+
+# like this: *= require application
+
+*/
